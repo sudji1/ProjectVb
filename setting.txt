@@ -1,0 +1,1 @@
+server=Localhost;user id=root;password=;database=posresto;port=3306
